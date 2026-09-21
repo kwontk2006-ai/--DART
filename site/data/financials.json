@@ -1,0 +1,7 @@
+{
+  "company": "현대건설",
+  "stock_code": "000720",
+  "status": "not_collected",
+  "message": "아직 실제 DART 데이터를 가져오지 않았습니다. GitHub Actions에서 수집 작업을 실행하세요.",
+  "rows": []
+}
